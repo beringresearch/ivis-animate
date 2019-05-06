@@ -11,4 +11,4 @@ Easy to install:
 $ pip install tsne_animate
 ```
 
-![digits](https://github.com/beringresearch/ivis_animate/blob/master/examples/digits.gif)
+![digits](https://github.com/beringresearch/ivis-animate/blob/master/examples/digits.gif)
